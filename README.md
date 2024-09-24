@@ -4,7 +4,7 @@ Program ini merupakan implementasi sederhana dari manajemen perpustakaan menggun
 <br/>
 - Overloading digunakan untuk memberikan beberapa cara dalam menambahkan buku ke dalam perpustakaan, baik dengan hanya menyertakan judul maupun dengan menambahkan informasi tentang penulis.
 - Overriding diterapkan untuk memungkinkan subclass memberikan implementasi khusus dari metode yang sudah ada di superclass, sehingga informasi yang ditampilkan dapat disesuaikan dengan konteks cabang perpustakaan.
-Dengan struktur yang jelas dan penggunaan prinsip OOP, program ini tidak hanya menunjukkan kemampuan dalam mengelola data koleksi, tetapi juga memperkuat pemahaman tentang bagaimana komponen-komponen dalam Java dapat bekerja secara harmonis untuk membangun aplikasi yang lebih kompleks. Diharapkan, program ini dapat menjadi referensi dan inspirasi bagi pengembang yang ingin belajar lebih dalam mengenai pemrograman Java dan penerapan struktur data dalam aplikasi dunia nyata.
+<br/>Dengan struktur yang jelas dan penggunaan prinsip OOP, program ini tidak hanya menunjukkan kemampuan dalam mengelola data koleksi, tetapi juga memperkuat pemahaman tentang bagaimana komponen-komponen dalam Java dapat bekerja secara harmonis untuk membangun aplikasi yang lebih kompleks. Diharapkan, program ini dapat menjadi referensi dan inspirasi bagi pengembang yang ingin belajar lebih dalam mengenai pemrograman Java dan penerapan struktur data dalam aplikasi dunia nyata.
 
 ### Perpustakaan.java
 ```

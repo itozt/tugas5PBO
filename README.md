@@ -1,4 +1,4 @@
-# Tugas 5 PBO - Collection, Overloading, dan Overriding
+# Tugas 5 PBO - Collection, Overloading, dan Overriding (Music Organizer)
 
 Program ini merupakan implementasi sederhana dari manajemen perpustakaan menggunakan konsep pemrograman berorientasi objek (OOP) dalam bahasa Java. Dalam sistem ini, kami memanfaatkan struktur data Collection untuk menyimpan dan mengelola informasi mengenai buku dan anggota perpustakaan. Melalui penggunaan kelas Perpustakaan dan subclass PerpustakaanCabang, program ini mendemonstrasikan konsep overloading dan overriding, yang merupakan bagian integral dari OOP.
 <br/>
